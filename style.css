@@ -1,0 +1,75 @@
+body 
+{
+  color: blue;
+}
+h1 
+{
+  color: green;
+}
+h2 
+{
+  color: red;
+}
+table 
+{
+	width: 100%;
+}
+th 
+{
+	height: 50px;
+}
+th 
+{
+	text-align: center;
+}
+table 
+{
+  border-collapse: collapse;
+}
+
+table, th, td 
+{
+  border: 1px solid black;
+}
+
+h1
+{
+  text-align: center;
+}
+
+h2
+{
+  text-align: center;
+}
+body
+{
+	background-color: lightblue;
+}
+.topnav
+{
+  background-color: lightblue;
+  overflow: hidden;
+}
+.topnav a
+{
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 23px;
+  border-bottom: 3px solid transparent;
+}
+.topnav a:hover
+{
+  border-bottom: 3px solid blue;
+}
+.topnav a.active
+{
+  border-bottom: 3px solid blue;
+} 
+p
+{
+font-size: 18px;	
+}
